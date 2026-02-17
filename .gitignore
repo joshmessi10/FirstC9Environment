@@ -1,0 +1,61 @@
+# =========================
+# 🐍 Python
+# =========================
+
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribución / packaging
+.Python
+build/
+dist/
+downloads/
+.eggs/
+*.egg-info/
+*.egg
+pip-wheel-metadata/
+
+# =========================
+# 🧪 Testing
+# =========================
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# =========================
+# 🌱 Virtual Environment
+# =========================
+
+venv/
+env/
+ENV/
+.venv/
+
+# =========================
+# 💻 AWS Cloud9
+# =========================
+
+.c9/
+.c9revisions/
+
+# =========================
+# 📝 Logs
+# =========================
+
+*.log
+
+# =========================
+# 🔐 Variables de entorno
+# =========================
+
+.env
+.env.*
+
+# =========================
+# 🖥️ Sistema operativo
+# =========================
+
+.DS_Store
+Thumbs.db
